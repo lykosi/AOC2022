@@ -1,6 +1,3 @@
-from re import I
-
-
 class Rucksack(object):
     def __init__(self, compartments):
         self.parse(compartments)

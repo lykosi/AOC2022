@@ -23,6 +23,7 @@
   <ItemGroup>
     <Compile Include="AOC2022.py" />
     <Compile Include="Events\CalorieCounting.py" />
+    <Compile Include="Events\CampCleanup.py" />
     <Compile Include="Events\RockPaperScissors.py" />
     <Compile Include="Events\Rucksack.py" />
   </ItemGroup>
